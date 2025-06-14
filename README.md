@@ -75,6 +75,6 @@ Got questions? Suggestions? Want to chat about the weather? Feel free to reach o
 
 ---
 
-Made with ❤️ and probably too much ☕ by Sharvil, Aditya and Rohan.
+Made with ❤️ and probably too much ☕ by Sharvil(Me), Aditya and Rohan.
 
 *P.S. No actual VR headsets were harmed in the making of this project.* 
